@@ -86,6 +86,7 @@
     <Content Include="img\sim3.PNG" />
     <Content Include="img\sim4.PNG" />
     <Content Include="img\sim5.PNG" />
+    <Content Include="LICENSE.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
